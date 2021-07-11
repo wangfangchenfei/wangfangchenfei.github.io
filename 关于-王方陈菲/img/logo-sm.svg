@@ -1,0 +1,47 @@
+<svg width="217.76001" height="213.5601" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata8">image/svg+xml</metadata>
+ <defs>
+  <clipPath id="clipPath26" clipPathUnits="userSpaceOnUse">
+   <path id="path24" d="m108.96,680.76l63.72,0l0,64.32l-63.72,0l0,-64.32z"/>
+  </clipPath>
+  <clipPath id="clipPath38" clipPathUnits="userSpaceOnUse">
+   <path id="path36" d="m116.52,624.48l46.2,0l0,64.319l-46.2,0l0,-64.319z"/>
+  </clipPath>
+  <clipPath id="clipPath50" clipPathUnits="userSpaceOnUse">
+   <path id="path48" d="m188.52,653.76l44.4,0l0,64.32l-44.4,0l0,-64.32z"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="219.76001" height="215.5601" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="matrix(1.3333333,0,0,-1.3333333,0,1122.56) " id="g10">
+   <g id="g12">
+    <path id="path14" d="m15.5,830.42l75,0l0,-137.25l-75,0l0,137.25z" stroke-miterlimit="8" stroke="#000000" fill-rule="evenodd" fill="#000000"/>
+   </g>
+   <text id="text18" transform="matrix(1,0,0,-1,28.16,773.72) " fill-rule="nonzero" fill="#ffffff" font-family="'Merriweather Black'" font-size="48px" font-weight="900">
+    <tspan id="tspan16" y="0" x="0 49.296001">W</tspan>
+   </text>
+   <g id="g20">
+    <g clip-path="url(#clipPath26)" id="g22"/>
+   </g>
+   <text id="text30" transform="matrix(1,0,0,-1,35.72,717.44) " fill-rule="nonzero" fill="#ffffff" font-family="'Merriweather Black'" font-size="48px" font-weight="900">
+    <tspan id="tspan28" y="0" x="0 31.775999">C</tspan>
+   </text>
+   <g id="g32">
+    <g clip-path="url(#clipPath38)" id="g34"/>
+   </g>
+   <text id="text42" transform="matrix(1,0,0,-1,107.72,746.72) " fill-rule="nonzero" fill="#000000" font-family="'Merriweather Black'" font-size="48px" font-weight="900">
+    <tspan id="tspan40" y="0" x="0 30">F</tspan>
+   </text>
+   <g id="g44">
+    <g clip-path="url(#clipPath50)" id="g46"/>
+   </g>
+   <g id="g52">
+    <path id="path54" d="m2.75,839.42l158.25,0l0,-155.85l-158.25,0l0,155.85z" stroke-miterlimit="8" stroke-width="5.5" stroke="#000000" fill="none"/>
+   </g>
+  </g>
+ </g>
+</svg>
